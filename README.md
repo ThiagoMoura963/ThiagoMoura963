@@ -4,7 +4,9 @@
 
 [![Innstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomoura963/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoura963&hide_progress=true)
+![ThiagoMoura963 GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMoura963&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoura863&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
