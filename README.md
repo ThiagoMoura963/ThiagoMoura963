@@ -4,7 +4,7 @@
 
 ![Thiago Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMoura963&show_icons=true&theme=radical)     
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoura963&size_weight=0.5&count_weight=0.5)
  
