@@ -3,11 +3,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-moura-b3b211207/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomoura963/)
 
-![Thiago Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMoura963&show_icons=true&theme=radical)
+---
+
+## Estatísticas
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=ThiagoMoura963&show_icons=true&theme=radical"
+  alt="GitHub Stats"
+  height="180"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoura963&layout=compact&theme=radical"
+  alt="Top Langs"
+  height="180"
+/>
+
+---
 
 ## Tecnologias que eu uso
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoura963&size_weight=0.5&count_weight=0.5)
 
 <div style="display: inline-block"><br />
     <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,6 +34,8 @@
     <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-## Meu contato:
+---
 
-- [thiagomjfelis@gmail.com](mailto:thiagomjfelis@gmail.com)
+## 📫 Meu contato
+
+- ✉️ thiagomjfelis@gmail.com
