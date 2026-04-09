@@ -1,41 +1,46 @@
-### Olá! Eu sou o Thiago Moura 🖐🏻
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Full+Stack+Developer;" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-moura-b3b211207/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomoura963/)
+# 👨‍💻 Thiago Moura
 
----
+**`Desenvolvedor Full Stack`**
 
-## Estatísticas
+Me chamo Thiago Moura, tenho 25 anos. Concluí o ensino médio no IFSP, onde também fiz o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec.
+Tenho experiência como desenvolvedor Full Stack, atuando na construção e evolução de sistemas web, APIs, integrações e automações, incluindo soluções com inteligência artificial (LLMs). Gosto de tecnologia e de entender como as coisas funcionam na prática, principalmente quando consigo transformar isso em soluções que causam impacto.
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ThiagoMoura963&show_icons=true&theme=radical"
-  alt="GitHub Stats"
-  height="180"
-/>
+<p>
+  <a href="mailto:thiagomjfelis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoura963&layout=compact&theme=radical"
-  alt="Top Langs"
-  height="180"
-/>
+  <a href="https://www.linkedin.com/in/thiago-moura-b3b211207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/thiagomjfelis3" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
 
----
+<br />
 
-## Tecnologias que eu uso
+### 🤖 Linguagens e Tecnologias
 
-<div style="display: inline-block"><br />
-    <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
+<p>
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,react,vue,python,java,postgres,docker&perline=8" 
+  />
+</p>
 
----
+<br />
 
-## 📫 Meu contato
+### 📊 Estatística 
 
-- ✉️ thiagomjfelis@gmail.com
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoMoura963&theme=tokyonight&hide_border=true"
+  /> 
+</p>
