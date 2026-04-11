@@ -29,7 +29,7 @@ Tenho experiência como desenvolvedor Full Stack, atuando na construção e evol
 
 <p>
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,react,vue,python,java,postgres,docker&perline=9" 
+    src="https://skillicons.dev/icons?i=js,ts,react,vue,python,java,postgres,docker,git,vscode&perline=5" 
   />
 </p>
 
