@@ -37,10 +37,14 @@ Tenho experiência como desenvolvedor Full Stack, atuando na construção e evol
 
 ### 📊 Estatística 
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoMoura963&theme=tokyonight&hide_border=true"
-  /> 
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoMoura963&show_icons=true&theme=dark"
+  />
+  <img 
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoura963&layout=compact&theme=dark&langs_count=8"
+  />
 </p>
+
